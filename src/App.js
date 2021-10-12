@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Otro parrafito
+          Primer cambio pipeline completo
         </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
