@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Primer cambio pipeline completo
+          Tp de ASO
         </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
